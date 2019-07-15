@@ -3,9 +3,9 @@ layout: default
 title: 홈
 permalink: /
 modalTitle: "공지"
-modalContent: '2.4.0.0 지갑 버전을 다운로드 할 수 있습니다. <a href="/wallet">업그레이드를 위해 여기를 클릭해 주시길 바랍니다.</a>'
+modalContent: '2.4.0 지갑 버전을 다운로드 할 수 있습니다. <a href="/wallet">업그레이드를 위해 여기를 클릭해 주시길 바랍니다.</a>'
 modalId: "upgrade-notification"
-modalCacheRef: "2.4.0.0"
+modalCacheRef: "2.4.0"
 ---
 
 <link href="/assets/vendors/mediabox/mediabox.css" rel="stylesheet">
