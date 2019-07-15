@@ -1,50 +1,50 @@
-- name: Nanopool
+- name: 나노풀(Nanopool)
   url: https://rvn.nanopool.org/
 
-- name: 2Miners
+- name: 투마이너즈(2Miners)
   url: https://2miners.com
-  
+
 - name: Bsod
   url: https://bsod.pw/site/
 
-- name: Coinblockers
+- name: 코인블록커스(Coinblockers)
   url: https://rvn.coinblockers.com/
 
-- name: Cryptopool.party
+- name: 크립토풀파티(Cryptopool.party)
   url: https://cryptopool.party/
 
-- name: Hash4.life
+- name: 해쉬포라이프(Hash4.life)
   url: https://hash4.life/
 
-- name: Icemining.ca
+- name: 아이스마이닝 캐나다(Icemining.ca)
   url: https://icemining.ca/site/gocoins?id=2089
 
-- name: Minepool
+- name: 마인풀(Minepool)
   url: https://www.minepool.com/
 
-- name: Minermore
+- name: 마이너모어(Minermore)
   url: https://minermore.com/
 
-- name: Omegapool
+- name: 오메가풀(Omegapool)
   url: https://www.omegapool.cc/
 
-- name: PickAxePro
+- name: 픽엑스프로(PickAxePro)
   url: 	http://www.pickaxe.pro/
 
-- name: Ravenminer
+- name: 레이븐마이너(Ravenminer)
   url: http://www.ravenminer.com/
 
-- name: RushHourMining
+- name: 러쉬아워마이닝(RushHourMining)
   url: http://rushhourmining.com/
 
-- name: Suprnova.cc
+- name: 슈퍼노바(Suprnova.cc)
   url: https://rvn.suprnova.cc/index.php
 
-- name: Virtopia
+- name: 버토피아(Virtopia)
   url: http://pool.virtopia.ca/
 
-- name: Yiimp.eu
+- name: 임프(Yiimp.eu)
   url: http://yiimp.eu/
 
-- name: Ravencoin.world
+- name: 레이븐코인 월드(Ravencoin.world)
   url: https://ravencoin.world/
