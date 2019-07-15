@@ -1,6 +1,6 @@
 title: Ravencoin
 author: RavenProject
-description: A peer-to-peer blockchain designed to handle the efficient creation and transfer of assets from one party to another. It's an open-source project based on Bitcoin
+description: ddd
 
 baseurl: ""
 
@@ -35,7 +35,7 @@ include:
   - _posts
   - _wallets
   - _translations
- 
+
 # Defaults
 defaults:
   # _pages
