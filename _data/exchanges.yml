@@ -40,11 +40,11 @@
   url: https://www.coinall.com/spot/trade#product=rvn_btc
 
 - name: 코인엑스
-  logo: /assets/img/pages/exchanges/coinex.png
+  logo: /assets/img/pages/exchanges/Coinex.png
   url: https://www.coinex.com/exchange
 
 - name: 코인파크
-  logo: /assets/img/pages/exchanges/coinpark.png
+  logo: /assets/img/pages/exchanges/Coinpark.png
   url: https://www.coinpark.com/
 
 - name: 티엑스비트
@@ -52,5 +52,5 @@
   url: https://www.txbit.io
 
 - name: 파인엑스박스
-  logo: /assets/img/pages/exchanges/finexbox.png
+  logo: /assets/img/pages/exchanges/Finexbox.png
   url: https://www.finexbox.com/?l=kr
