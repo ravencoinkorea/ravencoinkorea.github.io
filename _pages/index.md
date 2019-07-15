@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: 홈
 permalink: /
-modalTitle: "Announcement"
-modalContent: 'Wallet version 2.2.2 is now available. <a href="/wallet">Click Here to Upgrade</a>'
+modalTitle: "공지"
+modalContent: '2.4.0.0 지갑 버전을 다운로드 할 수 있습니다. <a href="/wallet">업그레이드를 위해 여기를 클릭해 주시길 바랍니다.</a>'
 modalId: "upgrade-notification"
-modalCacheRef: "2.2.2"
+modalCacheRef: "2.4.0.0"
 ---
 
 <link href="/assets/vendors/mediabox/mediabox.css" rel="stylesheet">
@@ -72,43 +72,44 @@ modalCacheRef: "2.2.2"
 
 <div class="banner text-center">
   <div class="wrapper">
-  <h1 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight"><u>Europe Ravencoin Meetup</u></h1>
-  <h2 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight">Come talk and meet with the Community and Developers.</h2>
-  <h3 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight">June 19, 2019 | 5PM-6PM  | RAI | Amsterdam Netherlands</h3>
-  <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="https://www.ravencoinmeetup.org/event/ravencoin-meetup-europe-june-2019">Come join us</a>
-  <br>
-  <br>
-  <br>
 
-    <h1 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight">Ravencoin is a peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another.</h1>
 
+    <p style="margin-top:60px;"></P>
+    <h1 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight">레이븐코인은 효율적인 자산 생성 및 전송을 위한</h1>
+    <h1 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight">피어투피어 블록체인입니다. </h1>
+     <p style="margin-top:30px;"></P>
     <div class="animated fadeInLeft">
-      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/wallet/">Get Your Wallet</a>
-      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">Buy Ravencoin</a>
+      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/wallet/">지갑 받기</a>
+      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">레이븐코인 구입</a>
     </div>
+          <p style="margin-top:40px;"></P>
     <div class="video-icon animated fadeInRight flex content-center justify-center font-semibold mt-4" uk-lightbox>
       <a class="video-icon-button mr-4 mediabox" href="https://www.youtube.com/embed/fbfUvkZaw2w?rel=0&amp;showinfo=0">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
           <path d="M256,0C114.617,0,0,114.615,0,256s114.617,256,256,256s256-114.615,256-256S397.383,0,256,0z M344.48,269.57l-128,80  c-2.59,1.617-5.535,2.43-8.48,2.43c-2.668,0-5.34-0.664-7.758-2.008C195.156,347.172,192,341.82,192,336V176  c0-5.82,3.156-11.172,8.242-13.992c5.086-2.836,11.305-2.664,16.238,0.422l128,80c4.676,2.93,7.52,8.055,7.52,13.57  S349.156,266.641,344.48,269.57z" fill="#2e3e80"/>
         </svg>
       </a>
-    <span class="mt-2">What is Ravencoin?</span></div>
+    <span class="mt-2">레이븐코인 트레일러-(영어)</span></div>
   </div>
 </div>
 <div class="section-intro text-white py-20">
   <div class="wrapper">
     <div class="text-center m-auto" style="max-width: 900px;">
-      <h2 class="text-white">Welcome to Ravencoin</h2>
-      <p style="max-width: 900px;" class="m-auto">Ravencoin is a protocol based on a fork of the Bitcoin code which adds features specifically focused on allowing tokens to be issued on the Ravencoin blockchain. These tokens can have whatever properties the issue of the token decides - so they can be limited in quantity, named and be issued as securities or as collectibles.</p>
-      <p class="mt-8">You can make your own security token within minutes and have it trade worldwide.</p>
+      <h2 class="text-white">레이븐코인에 오신 것을 환영합니다.</h2>
+    <p style="margin-top:50px;"></P>
+      <p style="max-width: 900px;" class="m-auto">레이븐코인은 공공 블록체인에서 토큰 발행을 위해 </p>
+  <p class="mt-"></p>
+        <p style="max-width: 900px;" class="m-auto">특별히 중점을 둔 기능 추가와 더불어, 비트코인 코드를 포크한 프로토콜입니다.  </p>
+        <p style="margin-top:30px;"></P>
+      <p class="mt-5">당신이 원하는 토큰을 몇 분안에 생성하여, 전 세계 어느 곳에서든 거래할 수 있습니다.</p>
       <hr class="border-b pt-6"/>
     </div>
     <hr class="my-8"/>
     <ul class="nav nav-tabs list-reset">
-      <li class="active"><a href="#tab-1">Project Shares</a></li>
-      <li class="tab-2"><a href="#tab-2">Virtual Goods</a></li>
-      <li class="tab-3"><a href="#tab-3">Physical &amp; Digital Assets</a></li>
-      <li class="tab-4"><a href="#tab-4">Credit</a></li>
+      <li class="active"><a href="#tab-1">프로젝트 주식</a></li>
+      <li class="tab-2"><a href="#tab-2">가상 상품</a></li>
+      <li class="tab-3"><a href="#tab-3">유형 &amp; 디지털 자산</a></li>
+      <li class="tab-4"><a href="#tab-4">크레딧 </a></li>
     </ul>
     <div class="tab-content">
       <div id="tab-1" class="tab-pane active">
@@ -117,28 +118,29 @@ modalCacheRef: "2.2.2"
             <img class="animated mb-4" id="tab-token" style="max-width: 150px;margin-top: 15px;" src="{{"/assets/img/svg/token.svg"}}" alt="token"/>
           </div>
           <div class="sm:w-full md:w-2/3 lg:w-3/4">
-           <h3 class="text-white">Representing real world custodied physical or digital asset</h3>
+           <h3 class="text-white">현실 세계와 연결되는 물적 또는 디지털 자산 대체 </h3>
             <ul class="list-reset">
-              <li>Securities tokens: stock or shares of a company where the shares are represented by a token rather than a physical stock certificate</li>
-              <li>Securities or partnership interests with the built-in ability to pay dividends in RVN</li>
-              <li>Tokens which represent a coop, limited partnership, royalty sharing or profit sharing platform</li>
-              <li>A token which represents a cflexd-funded item with the ability to transfer or resell the item</li>
-            </ul>  
+              <li>- 증권화 토큰:  주식 또는 주식 증명서 대신 회사의 지분을 토큰화</li>
+              <li>- 증권 또는 조합지분: 레이븐코인으로 배당금 지불</li>
+              <li>- 조합, 유한회사, 로열티 분배, 또는 이윤 분배 플랫폼: 토큰으로 대체</li>
+              <li>- CFLEX (시카고 옵션 거래소의 전자 거래 플랫폼)에서 거래되는</li>
+              <li> &nbsp;&nbsp; 자유로운 전송 및 거래가 가능한 옵션 또는 파생상품 토큰화</li>
+              </ul>
+            </div>
           </div>
-        </div>    
-      </div>
+        </div>
       <div id="tab-2" class="tab-pane">
         <div class="flex flex-wrap">
           <div class="w-full md:w-1/3 lg:w-1/4 text-center">
             <img class="animated mb-4" id="tab-tickets" style="max-width: 150px;margin-top: 15px;" src="{{"/assets/img/svg/tickets.svg"}}" alt="tickets"/>
           </div>
           <div class="sm:w-full md:w-2/3 lg:w-3/4">
-            <h3 class="text-white">Representing virtual goods</h3>
+            <h3 class="text-white">가상 상품 대체</h3>
             <ul class="list-reset">
-              <li>Tickets to an event such as a Baltimore Ravens game with the ability to resell without worry of duplicates being made</li>
-              <li>A license to allow an activity</li>
-              <li>An access token to use a service</li>
-              <li>In-game currency and items, transferable to other gamers outside of the game platform</li>
+              <li>- 티켓 위조의 우려 없이, 재판매 가능한 스포츠 경기 또는 콘서트 티켓 토큰화</li>
+              <li>- 사업자 자격증 또는 각종 라이센스 토큰화</li>
+              <li>- 피트니스 정기 회원권 또는 각종 입장권 토큰화</li>
+              <li>- 게임 플랫폼 외부의 게이머에게 전송 가능한 게임 아이템 또는 화폐 토큰화</li>
             </ul>
           </div>
         </div>
@@ -149,17 +151,18 @@ modalCacheRef: "2.2.2"
             <img class="animated mb-4" id="tab-gold" style="max-width: 150px;margin-top: 15px;" src="{{"/assets/img/svg/gold.svg"}}" alt="gold"/>
           </div>
           <div class="sm:w-full md:w-2/3 lg:w-3/4">
-            <h3 class="text-white">Representing a share of a project</h3>
+            <h3 class="text-white">실물 및 디지털 자산 대체</h3>
             <div class="flex flex-wrap">
               <ul class="list-reset w-full sm:w-1/2 md:w-1/3">
-                <li>Gold bar</li>
-                <li>Silver coins</li>
-                <li>Physical Euros</li>
+                <li>- 골드바</li>
+                <li>- 은화</li>
+                <li>- 유로화</li>
               </ul>
               <ul class="list-reset w-full sm:w-1/2 md:w-1/3">
-                <li>Land Deeds</li>
-                <li>DC Comics Presents #26</li>
-                <li>Energy credits (Electricity, Wood, Gas, Oil, Wind)</li>
+                <li>- 땅문서</li>
+                <li>- 한정판 만화책</li>
+                <li>- 에너지 자산 </li>
+                <li> &nbsp;&nbsp;(전기, 나무, 가스, 오일, 풍력)</li>
               </ul>
             </div>
           </div>
@@ -171,11 +174,11 @@ modalCacheRef: "2.2.2"
             <img class="animated mb-4" id="tab-gift-card" style="max-width: 150px;" src="{{"/assets/img/svg/gift-card.svg"}}" alt="gift-card"/>
           </div>
           <div class="sm:w-full md:w-2/3 lg:w-3/4">
-            <h3 class="text-white">Representing a credit</h3>
+            <h3 class="text-white">크레딧 대체</h3>
             <ul class="list-reset">
-              <li>Gift cards</li>
-              <li>Airline miles</li>
-              <li>Reward points</li>
+              <li>-기프트 카드</li>
+              <li>-항공사 마일리지</li>
+              <li>-적립급</li>
             </ul>
           </div>
         </div>
@@ -187,15 +190,16 @@ modalCacheRef: "2.2.2"
   <div class="wrapper">
     <div class="flex flex-wrap">
       <div class="w-full sm:w-full md:w-3/4">
-        <h2>What Makes Ravencoin Different from Bitcoin?</h2>
-        <p>The X16R algorithm intends to solve the centralization of mining seen on the Bitcoin blockchain caused by the introduction of expensive and highly efficient Application Specific Integrated Circuit (ASIC) hardware. By randomizing the order of 16 different hashing algorithms, Raven makes ASICs difficult to develop, allowing room for anyone to be able to mine the Raven network without the disadvantage of competing with ASIC hardware. The Raven team has also committed to change the hashing algorithms if a Raven ASIC miner is ever developed.</p>
+        <h2>레이븐코인과 비트코인의 차이점</h2>
+        <p>X16R 알고리즘은 고효율의 ASIC(주문형 반도체) 하드웨어의 도입으로 인한 비트코인 블록체인에서 보여지는
+        </p><p> 채굴의 중앙화를 해결하고자 합니다. 16개의 다른 해싱 알고리즘의 순서를 무작위로 지정함으로써, ASIC의 개발을</p><p> 어렵게 하며, ASIC 하드웨어와 경쟁하는 어려움 없이, 레이븐코인의 채굴을 가능하게 합니다. </p> <p>또한, 레이븐코인 채굴을 위한 ASIC 하드웨어 개발이 목격될 시, 레이븐코인 개발자들은 해싱 알고리즘을 변경하기로</p><p> 약속 하였습니다.</p>
         <ul class="checkmark">
-          <li>Block reward of 5,000 RVN instead of 50 BTC.</li>
-          <li>Block time of 1 minute instead of 10.</li>
-          <li>Total coin supply of 21 Billion instead of 21 million.</li>
-          <li>A new mining algorithm, X16R which allows for more decentralized mining.</li>
-          <li>Addition of Asset issuance, and transfer.</li>
-          <li>Future addition of unique assets, sub-assets, rewards, messaging, and voting.</li>
+          <li><STRONG>블록당 보상: 50 비트코인 -> 5,000 레이븐코인.</STRONG></li>
+          <li><STRONG>블록 생성 시간: 10분 -> 1분.</STRONG></li>
+          <li><STRONG>코인 총 발행량: 2100만개-> 210억개.</STRONG></li>
+          <li><STRONG>X16R이라는 탈중앙화된 채굴을 추구하는 새로운 채굴 알고리즘.</STRONG></li>
+          <li><STRONG>디지털 자산 발행 및 전송 기능 추가.</STRONG></li>
+          <li><STRONG>고유자산, 부자산, 보상, 메시징, 메모, 태그 및 제한자산, 투표 및 프라이버시 기능 추가 또는 추가 예정.</STRONG></li>
         </ul>
       </div>
       <div class="w-full sm:w-full md:w-1/4 text-center hidden md:block">
@@ -207,17 +211,17 @@ modalCacheRef: "2.2.2"
 <div class="section-cta py-10">
   <div class="flex flex-wrap wrapper">
     <div class="w-full sm:w-1/2 md:w-3/4">
-      <h2 class="text-white font-medium mb-3">Get Involved Today!</h2>
-      <p class="text-white">Become a part of the community and contribute to RAVENCOIN’s global decentralized network of miners, contributes, traders, and developers.</p>
+      <h2 class="text-white font-medium mb-3">레이븐코인 커뮤니티에 참여하세요!</h2>
+      <p class="text-white">레이븐코인 커뮤니티의 일원이 되어, 글로벌한 탈중앙화 네트워크에 채굴자, 코드 기여, 트레이더, 그리고 개발자로서 함께 해 주시길 바랍니다.</p>
     </div>
     <div class="w-full sm:w-1/2 md:w-1/4 text-left sm:text-center">
-      <a class="btn btn-primary mx-2 mt-5 mb-3 px-4 py-3 font-normal text-base rounded text-white border-white border-solid border-2 hover:text-black" href="/community">Join the Community</a>
+      <a class="btn btn-primary mx-2 mt-5 mb-3 px-4 py-3 font-normal text-base rounded text-white border-white border-solid border-2 hover:text-black" href="/community">커뮤니티 목록</a>
     </div>
   </div>
 
 </div>
 <div class="section-exchange pt-20 pb-24 bg-grey-lighter text-center">
-  <h2 class="font-medium">Exchanges</h2>
+  <h2 class="font-small font-bold">(국내 및 한글 지원) 거래소   <h2 class="font-small"> [가나다순]</h2>
   <div class="wrapper mt-8 m-auto">
     <div class="flex flex-wrap">
       {% for exchange in site.data.exchanges %}
@@ -227,10 +231,10 @@ modalCacheRef: "2.2.2"
         </div>
       </div>
       {% endfor %}
-    </div>
+        </div>
       <div class="text-center">
-        <a class="btn btn-primary d-block mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">See All Exchanges</a>
-      </div>
+        <a class="btn btn-primary d-block mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">모든 거래소 보기</a>
+
   </div>
 </div>
 
