@@ -80,7 +80,7 @@ modalCacheRef: "2.4.0"
      <p style="margin-top:30px;"></P>
     <div class="animated fadeInLeft">
       <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/wallet/">지갑 받기</a>
-      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">레이븐코인 구입</a>
+      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">레이븐코인 구매</a>
     </div>
           <p style="margin-top:40px;"></P>
     <div class="video-icon animated fadeInRight flex content-center justify-center font-semibold mt-4" uk-lightbox>
@@ -99,7 +99,7 @@ modalCacheRef: "2.4.0"
     <p style="margin-top:50px;"></P>
       <p style="max-width: 900px;" class="m-auto">레이븐코인은 공공 블록체인에서 토큰 발행을 위해 </p>
   <p class="mt-"></p>
-        <p style="max-width: 900px;" class="m-auto">특별히 중점을 둔 기능 추가와 더불어, 비트코인 코드를 포크한 프로토콜입니다.  </p>
+        <p style="max-width: 900px;" class="m-auto">특별히 중점을 둔 자산 발행 및 전송 기능이 추가된, 비트코인 코드를 포크한 프로토콜입니다.  </p>
         <p style="margin-top:30px;"></P>
       <p class="mt-5">당신이 원하는 토큰을 몇 분안에 생성하여, 전 세계 어느 곳에서든 거래할 수 있습니다.</p>
       <hr class="border-b pt-6"/>

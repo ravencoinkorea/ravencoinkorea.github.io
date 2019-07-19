@@ -1,14 +1,14 @@
 ---
 layout: page-w-banner
-title: Halving
-bannerTitle: Ravencoin Halving
+title: 반감기
+bannerTitle: 레이븐코인 반감기
 permalink: /halving/
 ---
 
 <div class="page-content">
   <div class="wrapper mt-4 mb-20">
-    <h2>How it works...</h2>
-    <p>In Approximately 3 years (~January 2022) at block 2,100,000 the first halving will take place and the reward per block will drop from 5,000 to 2,500 Raven. This will continue with each subsequent 2,100,000 blocks until the reward amount can no longer be halved.</p>
+    <h2>반감기</h2>
+    <p>210만개의 블록이 형성되는 시점인 2022년 1월(예상)에 레이븐코인의 첫 반감기가 있을 예정이며, 블록당 보상은 5,000 레이븐코인에서 2,500 레이븐코인으로 줄어들게 됩니다. 더 이상의 보상 반감량이 형성되기 어려운 시점까지, 매 210만개의 블록마다, 반감기를 거치게 됩니다.</p>
     <hr class="border-grey border-t mt-8">
     <h3 class="mt-8">How many days is 2,100,000 blocks?</h3>
     <p>2,100,000 blocks = 1458.33333 days @ 1 minute blocks</p>
