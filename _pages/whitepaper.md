@@ -21,7 +21,7 @@ permalink: /whitepaper/
           </div>
         </a>
         <h3><a id="whitePaper1" href="/assets/documents/Ravencoin WhitepaperKorean V.1.0.pdf" target="_blank">백서</a></h3>
-        <p id="whitePaper2">레이븐코인: 디지털 자산 생성 및 전송을 위한 피어투피어(P2P) 전자 지스템</p>
+        <p id="whitePaper2">레이븐코인: 디지털 자산 생성 및 전송을 위한<p></p> 피어투피어(P2P) 전자 지스템</p>
 
       </div>
       <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ X16R ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
