@@ -27,6 +27,10 @@
   logo: /assets/img/pages/exchanges/idcm.png
   url: https://www.idcm.io/
 
+- name: 아토믹덱스
+  logo: /assets/img/pages/exchanges/atomicdex.png
+  url: https://atomicdex.io/index_kr.html
+
 - name: 업비트
   logo: /assets/img/pages/exchanges/Asset-7.png
   url: https://upbit.com/
