@@ -1,7 +1,7 @@
 ---
 layout: page-w-banner
 title: 레이븐코인
-description: "Ravencoin is a digital peer to peer network that aims to implement a use case specific blockchain, designed to efficiently handle one specific function: the transfer of assets from one party to another."
+description: "레이븐코인은 효율적인 자산 생성 및 전송을 위한 피어투피어 블록체인이며, 비트코인 코드를 포크한 오픈소스 프로젝트입니다."
 bannerTitle: 레이븐코인 프로젝트
 bannerImage: /assets/img/pages/about/about-banner.jpg
 permalink: /about/
