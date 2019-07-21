@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultㅇㅇ
 title: 홈
 permalink: /
 modalTitle: "공지"
