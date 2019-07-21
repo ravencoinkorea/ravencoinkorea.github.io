@@ -104,12 +104,12 @@ permalink: /community/
   </div>
 
   <div class="w-1/2 sm:w-1/4 mb-8">
-    <a href="https://ravencoin/" target="_blank">
+    <a href="comingsoon" target="_blank">
       <div class="mb-6 py-4 px-5 inline-block rounded-full bg-grey hover:bg-grey-dark">
         <i class="zmdi zmdi-store text-5xl text-white"></i>
       </div>
     </a>
-    <h3><a href="https://ravencoins/" target="_blank">스토어(예정)</a></h3>
+    <h3><a href="comingsoon" target="_blank">스토어(예정)</a></h3>
   </div>
 
       <div class="w-1/2 sm:w-1/4 mb-8">
