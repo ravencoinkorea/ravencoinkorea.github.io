@@ -5,11 +5,7 @@
 
 - name: 디지파이넥스
   logo: /assets/img/pages/exchanges/Asset-4.png
-  url: https://www.digifinex.com/ko-kr/
-
-- name: 델타 익스체인지
-  logo: /assets/img/pages/exchanges/Delta.png
-  url: https://www.delta.exchange/
+  url: https://www.digifinex.com/ko-kr/trade/BTC/RVN
 
 - name: 바이낸스
   logo: /assets/img/pages/exchanges/Asset-2.png
