@@ -191,9 +191,7 @@ modalCacheRef: "2.4.0"
     <div class="flex flex-wrap">
       <div class="w-full sm:w-full md:w-3/4">
         <h2>레이븐코인과 비트코인의 차이점</h2>
-        <p>
-        </p><p> 채굴의 중앙화를 해결하고자 합니다. 16개의 다른 해싱 알고리즘의 순서를 무작위로 지정함으로써, ASIC의 개발을</p><p> 어렵게 하며, ASIC 하드웨어와 경쟁하는 어려움 없이, 레이븐코인의 채굴을 가능하게 합니다. </p> <p>또한, 레이븐코인 채굴을 위한 ASIC 하드웨어 개발이 목격될 시, 레이븐코인 개발자들은 해싱 알고리즘을 변경하기로</p><p> 약속 하였습니다.</p>
-        <ul class="checkmark">
+  
           <li><STRONG>블록당 보상: 50 비트코인 -> 5,000 레이븐코인.</STRONG></li>
           <li><STRONG>블록 생성 시간: 10분 -> 1분.</STRONG></li>
           <li><STRONG>코인 총 발행량: 2100만개-> 210억개.</STRONG></li>
