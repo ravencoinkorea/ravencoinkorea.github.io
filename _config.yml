@@ -29,7 +29,6 @@ header_pages:
 # Build settings
 theme: minima
 relative_permalinks: false
-markdown: kramdown
 
 # Reading Files
 include:
@@ -54,5 +53,3 @@ plugins:
 future: true
 
 timezone: Asia/Seoul
-
-encoding: UTF-8
