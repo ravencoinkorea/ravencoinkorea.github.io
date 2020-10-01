@@ -1,15 +1,15 @@
 ---
 layout: page-w-banner
-title: 레이븐코인 구매
-bannerTitle: 레이븐코인 구매 가이드
+title: 레이븐코인 거래
+bannerTitle: 레이븐코인 거래 가이드
 bannerImage: /assets/img/pages/exchanges/exchange-banner.jpg
 permalink: /buy-ravencoin/
 ---
 
 <div class="page-content">
   <div class="wrapper mt-8 mb-32 m-auto">
-    <h2>레이븐코인 구매</h2>
-    <p class="mb-8">레이븐코인(RVN)은 이하 거래소에서 구매 가능합니다:</p>
+    <h2>레이븐코인 거래</h2>
+    <p class="mb-8">레이븐코인(RVN)은 이하 거래소에서 거래 가능합니다:</p>
     <div class="flex flex-wrap">
       {% for exchange in site.data.exchanges %}
       <div class="mb-6 px-2 sm:w-1/2 md:w-1/3 text-center">
