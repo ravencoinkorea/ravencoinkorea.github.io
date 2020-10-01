@@ -8,8 +8,8 @@ permalink: /pools/
 <div class="page-content">
   <div class="wrapper mt-8 mb-32 m-auto">
     <h2>레이븐코인 채굴</h2>
-    <p>레이븐코인은 소비자용 하드웨어(GPU&CPU)로 쉽게 채굴할 수 있도록 설계된 X16R 알고리즘을 사용합니다. X16R 알고리즘은은 블록 생성간 16개의 다른<p style="margin-top:5px"></p> 알고리즘들의 지속적인 전환을 통하여, 주문형 반도체(ASIC) 하드웨어 저항하도록 설계 되었습니다.</p><p style="margin-top:30px"></p>
-    <p>레이븐코인을 채굴하기 위해서는, 지갑을 만들고, 채굴된 레이븐코인을 받을 레이븐코인 주소를 생성하여야 합니다. 그리고, 채굴풀을 선택하여, 채굴을 시작<p style="margin-top:5px"></p>할 수 있습니다.</p><p style="margin-top:30px"></p>
+    <p>소비자용 하드웨어에서 채굴되도록 설계된 레이븐코인은 카포(KAWPOW)라는 새로운 알고리즘을 사용합니다. 고효율성 반도체 채굴기(ASIC)에 내성을 갖도록 설계되었으며, GPU 하드웨어를 통해 효율적으로 채굴할 수 있도록 설계되었습니다.</p><p style="margin-top:30px"></p>
+    <p>레이븐코인을 채굴하기 위해서는, 지갑을 만들고, 채굴된 레이븐코인을 받을 주소를 생성하여야 합니다. 그리고 채굴풀을 선택하여, 채굴을 시작<p style="margin-top:5px"></p>할 수 있습니다.</p><p style="margin-top:30px"></p>
     <p>채굴 가이드(영문): <a href="https://raven.wiki/wiki/Mining" target="_blank" rel="noopener">https://raven.wiki/wiki/Mining</a></p><p style="margin-top:30px"></p>
     <p class="mb-8">이하 레이븐코인 채굴풀입니다:</p>
     <div class="flex flex-wrap">
