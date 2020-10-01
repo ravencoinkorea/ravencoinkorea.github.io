@@ -29,6 +29,7 @@ header_pages:
 # Build settings
 theme: minima
 relative_permalinks: false
+markdown: kramdown
 
 # Reading Files
 include:
@@ -50,6 +51,8 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
- future: true
+future: true
 
- timezone: Asia/Seoul
+timezone: Asia/Seoul
+
+encoding: UTF-8
