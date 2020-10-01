@@ -9,11 +9,7 @@
 
 - name: 바이낸스
   logo: /assets/img/pages/exchanges/Asset-2.png
-  url: https://www.binance.com/kr
-
-- name: 비트렉스
-  logo: /assets/img/pages/exchanges/Asset-1.png
-  url: https://international.bittrex.com/
+  url: https://www.binance.com/kr/trade/RVN_BTC
 
 - name: 비트맥스
   logo: /assets/img/pages/exchanges/BITMEX1.png
@@ -34,3 +30,7 @@
 - name: 오케이엑스
   logo: /assets/img/pages/exchanges/Okexkorea.png
   url: https://www.okex.com/ko/spot/trade/rvn-btc
+
+- name: 후오비글로벌
+  logo: /assets/img/pages/exchanges/huobiglobal.png
+  url: https://www.huobi.com/ko-kr/exchange/rvn_usdt/
