@@ -15,6 +15,10 @@
   logo: /assets/img/pages/exchanges/Asset-1.png
   url: https://international.bittrex.com/
 
+- name: 비트맥스
+  logo: /assets/img/pages/exchanges/bitmex.png
+  url: https://bitmax.io/ko/basic/cashtrade-spottrading/usdt/rvn
+
 - name: 업비트
   logo: /assets/img/pages/exchanges/Asset-7.png
   url: https://upbit.com/
