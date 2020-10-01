@@ -49,3 +49,7 @@ defaults:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+ future: true
+
+ timezone: Asia/Seoul
