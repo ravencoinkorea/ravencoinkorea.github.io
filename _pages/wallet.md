@@ -70,7 +70,7 @@ permalink: /wallet/
         </div>
       </div>
     </div>
-    
+
 
 <style>
   .page-content a {
