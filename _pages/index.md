@@ -216,7 +216,6 @@ modalCacheRef: "2.4.0"
       <a class="btn btn-primary mx-2 mt-5 mb-3 px-4 py-3 font-normal text-base rounded text-white border-white border-solid border-2 hover:text-black" href="/community">커뮤니티 목록</a>
     </div>
   </div>
-
 </div>
 </div>
 </div>
