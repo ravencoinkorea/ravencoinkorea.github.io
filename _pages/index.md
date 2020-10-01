@@ -95,10 +95,10 @@ modalCacheRef: "2.4.0"
 <div class="section-intro text-white py-20">
   <div class="wrapper">
     <div class="text-center m-auto" style="max-width: 900px;">
-      <h2 class="text-white">레이븐코인에 오신 것을 환영합니다.</h2>
+      <h2 class="text-white">레이븐코인 한국 페이지에 오신 것을 환영합니다.</h2>
     <p style="margin-top:50px;"></P>
       <p style="max-width: 900px;" class="m-auto">레이븐코인은 공공 블록체인에서 토큰 발행을 위해 </p>
-  <p class="mt-"></p>
+  <p style="margin-top:30px;"></P>
         <p style="max-width: 900px;" class="m-auto">특별히 중점을 둔 자산 발행 및 전송 기능이 추가된, 비트코인 코드를 포크한 프로토콜입니다.  </p>
         <p style="margin-top:30px;"></P>
       <p class="mt-5">당신이 원하는 토큰을 몇 분안에 생성하여, 전 세계 어느 곳에서든 거래할 수 있습니다.</p>
