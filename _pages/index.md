@@ -222,7 +222,7 @@ modalCacheRef: "2.4.0"
   </div>
 
 </div>
-<div class="section-exchange pt-18 pb-24 bg-grey-lighter text-center">
+<div class="section-exchange pt-18 pb-20 bg-grey-lighter text-center">
 <br>
 <br>
 <br>
