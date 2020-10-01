@@ -79,8 +79,8 @@ modalCacheRef: "2.4.0"
     <h1 class="animated fadeInRight mb-3 mb-2 m-auto leading-tight">피어투피어 블록체인입니다. </h1>
      <p style="margin-top:30px;"></P>
     <div class="animated fadeInLeft">
-      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/wallet/">지갑 받기</a>
-      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">레이븐코인 구매</a>
+      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/wallet/">지갑 다운로드</a>
+      <a class="btn btn-primary mx-2 mt-4 mb-3 px-3 py-3 font-medium text-base rounded text-white hover:text-white" href="/buy-ravencoin/">레이븐코인 거래</a>
     </div>
           <p style="margin-top:40px;"></P>
     <div class="video-icon animated fadeInRight flex content-center justify-center font-semibold mt-4" uk-lightbox>
