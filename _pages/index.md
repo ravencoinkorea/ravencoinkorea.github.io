@@ -190,6 +190,9 @@ modalCacheRef: "2.4.0"
   <div class="wrapper">
     <div class="flex flex-wrap">
       <div class="w-full sm:w-full md:w-3/4">
+      <br>
+      <br>
+      <br>
         <h2>레이븐코인과 비트코인의 차이점</h2>
 
           <li><STRONG>블록당 보상: 50 비트코인 -> 5,000 레이븐코인.</STRONG></li>
