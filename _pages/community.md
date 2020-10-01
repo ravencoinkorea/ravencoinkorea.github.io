@@ -9,6 +9,7 @@ permalink: /community/
 <div class="page-content">
   <div class="wrapper text-center">
     <h2>모두가 참여하는 레이븐코인 커뮤니티</h2>
+    <br>
     <p>레이븐코인을 지지하는 여러 개의 활발한 커뮤니티들을 공유합니다.</p>
     <div class="flex flex-wrap pt-16 pb-32 m-auto" style="max-width: 800px;">
       <div class="w-1/2 sm:w-1/4 mb-8">
