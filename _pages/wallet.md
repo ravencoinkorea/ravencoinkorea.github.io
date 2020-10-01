@@ -38,7 +38,7 @@ permalink: /wallet/
         <a class="block mt-8 text-lg bg-blue hover:bg-blue-dark rounded p-2 text-white" href="https://github.com/RavenProject/Ravencoin/releases" download><i class="zmdi zmdi-download"></i><span class="inline-block ml-3">리눅스</span></a>
       </div>
     </div>
-    <h2>제3의 플랫폼 지원 지갑</h2>
+    <h2>제3자 플랫폼 지갑</h2>
     <div class="flex flex-wrap">
       {% for wallet in site.data.wallets %}
       <div class="mb-6 px-2 sm:w-1/2 text-center">
