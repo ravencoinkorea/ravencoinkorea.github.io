@@ -2,8 +2,8 @@
 - name: 나노풀 (Nanopool)<p></p>
   url: 	https://rvn.nanopool.org/
 
-  - name: 레이븐마이너 (RavenMiner)<p></p>
-    url: https://www.ravenminer.com/
+- name: 레이븐마이너 (RavenMiner)<p></p>
+  url: https://www.ravenminer.com/
 
 - name: 마이닝풀허브(MiningPoolHub)<p></p>
   url: https://ravencoin.miningpoolhub.com/
@@ -11,11 +11,11 @@
 - name: 마이너모어 (Minermore)<p></p>
   url: https://minermore.com/
 
-  - name: 비에스오디(Bsod)<p></p>
-    url: https://bsod.pw/site/
+- name: 비에스오디(Bsod)<p></p>
+  url: https://bsod.pw/site/
 
-  - name: 슈퍼노바 (Suprnova.cc)<p></p>
-    url: https://rvn.suprnova.cc/index.php
+- name: 슈퍼노바 (Suprnova.cc)<p></p>
+  url: https://rvn.suprnova.cc/index.php
 
 - name: 제트풀 (ZPool)<p></p>
   url: https://zpool.ca/
@@ -23,5 +23,5 @@
 - name: 코이노트론 (Coinotron)<p></p>
   url: https://ravencoin.world/
 
-  - name: 투마이너즈 (2Miners)<p></p>
-    url: https://2miners.com
+- name: 투마이너즈 (2Miners)<p></p>
+  url: https://2miners.com
