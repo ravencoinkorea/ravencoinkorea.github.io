@@ -11,45 +11,22 @@
   logo: /assets/img/pages/exchanges/Asset-2.png
   url: https://www.binance.com/kr
 
-- name: 비츠루
-  logo: /assets/img/pages/exchanges/bitrue.png
-  url:  https://www.bitrue.com/?hl=ko_KR
-
 - name: 비트렉스
   logo: /assets/img/pages/exchanges/Asset-1.png
   url: https://international.bittrex.com/
-
-- name: 아이디씨엠
-  logo: /assets/img/pages/exchanges/idcm.png
-  url: https://www.idcm.io/
-
-- name: 아토믹덱스
-  logo: /assets/img/pages/exchanges/atomicdex.png
-  url: https://atomicdex.io/index_kr.html
 
 - name: 업비트
   logo: /assets/img/pages/exchanges/Asset-7.png
   url: https://upbit.com/
 
-- name: 차오엑스
-  logo: /assets/img/pages/exchanges/chaoex.png
-  url: https://www.chaoex.com/dealcenter
-
-- name: 코인올
-  logo: /assets/img/pages/exchanges/coinall.png
-  url: https://www.coinall.com/spot/trade#product=rvn_btc
-
-- name: 코인엑스
-  logo: /assets/img/pages/exchanges/Coinex.png
-  url: https://www.coinex.com/exchange
 
 - name: 코인파크
   logo: /assets/img/pages/exchanges/Coinpark.png
   url: https://www.coinpark.com/
 
-- name: 티엑스비트
-  logo: /assets/img/pages/exchanges/txbit.png
-  url: https://www.txbit.io
+- name: 유니콘엑스
+  logo: /assets/img/pages/exchanges/Unicorn.png
+  url: https://www.unicornx.exchange/markets/spot-info/rvn-usdt
 
 - name: 파인엑스박스
   logo: /assets/img/pages/exchanges/Finexbox.png
