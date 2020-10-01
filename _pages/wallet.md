@@ -70,12 +70,7 @@ permalink: /wallet/
         </div>
       </div>
     </div>
-    <h2 class="mt-16 mb-8">기타</h2>
-    <div class="pt-8 mb-8">
-      <a class="inline-block text-lg bg-blue hover:bg-blue-dark rounded p-2 text-white px-8" href="https://github.com/MSFTserver/RavenCoin-Wallet-With-Miners/releases" download><i class="zmdi zmdi-link"></i><span class="inline-block ml-3">모두 보기</span></a>
-    </div>
-  </div>
-</div>
+    
 
 <style>
   .page-content a {
