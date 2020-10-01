@@ -216,8 +216,9 @@ modalCacheRef: "2.4.0"
       <a class="btn btn-primary mx-2 mt-5 mb-3 px-4 py-3 font-normal text-base rounded text-white border-white border-solid border-2 hover:text-black" href="/community">커뮤니티 목록</a>
     </div>
   </div>
-&nbsp;
+
 </div>
+&nbsp;
 <div class="section-exchange pt-18 pb-24 bg-grey-lighter text-center">
   <h2 class="font-small font-bold">(국내 및 한글 지원) 거래소   <h2 class="font-small"> [가나다순]</h2>
   <div class="wrapper mt-8 m-auto">
