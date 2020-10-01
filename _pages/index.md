@@ -220,6 +220,8 @@ modalCacheRef: "2.4.0"
 </div>
 <div class="section-exchange pt-18 pb-24 bg-grey-lighter text-center">
 <br>
+<br>
+<br>
   <h2 class="font-small font-bold">(국내 및 한글 지원) 거래소   <h2 class="font-small"> [가나다순]</h2>
   <div class="wrapper mt-8 m-auto">
     <div class="flex flex-wrap">
