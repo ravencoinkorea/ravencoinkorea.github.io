@@ -51,5 +51,3 @@ plugins:
  - jekyll-seo-tag
 
 future: true
-
-timezone: Asia/Seoul
