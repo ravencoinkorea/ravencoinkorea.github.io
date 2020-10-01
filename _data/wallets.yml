@@ -1,44 +1,55 @@
-- name: Zelcore
-  logo: /assets/img/pages/wallet/zelcore.png
-  url: https://zel.network/project/zelcore/
+-- name: 도브(Dove)
+  logo: /assets/img/pages/wallet/dove.png
+  url: https://dovewallet.com/
+  asset-support: false
+  platforms:
+    - world-wide-web
+
+- name: 디센트(D'CENT)
+  logo: /assets/img/pages/wallet/dcentwallet.png
+  url: https://dcentwallet.com
+  asset-support: false
+  platforms:
+    - app-store-badge
+    - google-play-badge
+
+- name: 발레(Ballet)
+  logo: /assets/img/pages/wallet/ballet.png
+  url: https://www.balletcrypto.com/ko/
+  asset-support: false
+  platforms:
+    - app-store-badge
+    - google-play-badge
+    - windows
+    - mac
+
+- name: 코인어스(CoinUS)
+  logo: /assets/img/pages/wallet/coinus.png
+  url: https://www.coinus.io/wallet
   asset-support: true
   platforms:
     - app-store-badge
     - google-play-badge
-    - windows
-    - mac
-    - linux
 
-- name: Exodus
-  logo: /assets/img/pages/wallet/exodus.png
-  url: https://www.exodus.io/download/
-  asset-support: false
-  platforms:
-    - app-store-badge
-    - google-play-badge
-    - windows
-    - mac
-    - linux
-
-- name: Spend
-  logo: /assets/img/pages/wallet/spend.png
-  url: https://www.spend.com/
+- name: 크립토닷컴(Crypto.com)
+  logo: /assets/img/pages/wallet/crypto.com.png
+  url: https://crypto.com/kr/
   asset-support: false
   platforms:
     - app-store-badge
     - google-play-badge
 
-- name: Trust
+- name: 코인페이먼츠(Coinpayments)
+  logo: /assets/img/pages/wallet/coinpayments.png
+  url: https://www.coinpayments.net/apps
+  asset-support: false
+  platforms:
+    - app-store-badge
+    - google-play-badge
+
+- name: 트러스트(Trust)
   logo: /assets/img/pages/wallet/trust.png
-  url: https://trustwallet.com/
-  asset-support: false
-  platforms:
-    - app-store-badge
-    - google-play-badge
-
-- name: Cobo
-  logo: /assets/img/pages/wallet/cobo.png
-  url: https://cobo.com/
+  url: https://trustwallet.com/ko/
   asset-support: false
   platforms:
     - app-store-badge
