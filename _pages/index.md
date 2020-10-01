@@ -198,7 +198,7 @@ modalCacheRef: "2.4.0"
           <li><STRONG>X16R이라는 탈중앙화된 채굴을 추구하는 새로운 채굴 알고리즘.</STRONG></li>
           <li><STRONG>디지털 자산 발행 및 전송 기능 추가.</STRONG></li>
           <li><STRONG>고유자산, 부자산, 보상, 메시징, 메모, 태그 및 제한자산, 투표 및 프라이버시 기능 추가 또는 추가 예정.</STRONG></li>
-        
+
       </div>
       <div class="w-full sm:w-full md:w-1/4 text-center hidden md:block">
         <img id="logo-why" class="animated" style="margin-top: 30px;" src="{{"/assets/img/home/raven-flock.png"}}" alt="ravencoin logo">
@@ -218,7 +218,7 @@ modalCacheRef: "2.4.0"
   </div>
 
 </div>
-<div class="section-exchange pt-20 pb-24 bg-grey-lighter text-center">
+<div class="section-exchange pt-18 pb-24 bg-grey-lighter text-center">
   <h2 class="font-small font-bold">(국내 및 한글 지원) 거래소   <h2 class="font-small"> [가나다순]</h2>
   <div class="wrapper mt-8 m-auto">
     <div class="flex flex-wrap">
