@@ -8,7 +8,7 @@ permalink: /wallet/
 
 <div class="page-content">
   <div class="wrapper text-center pt-8 pb-20" style="max-width: 700px;">
-    <h2 class="mb-16">앱 지갑 다운로드</h2>
+    <h2 class="mb-16">모바일 지갑 다운로드</h2>
     <div class="flex flex-wrap align-center justify-center pb-4">
       <div class="px-3 w-full sm:w-1/2 text-center sm:text-right mb-5">
           <a href="https://itunes.apple.com/us/app/rvn-wallet/id1371751946?mt=8" target="_blank" class="block"><img style="width:100%;width: 200px;" src="/assets/img/pages/wallet/app-store-badge.svg" alt="app store"/></a>
