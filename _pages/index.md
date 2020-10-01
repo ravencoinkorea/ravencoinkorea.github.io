@@ -191,7 +191,7 @@ modalCacheRef: "2.4.0"
     <div class="flex flex-wrap">
       <div class="w-full sm:w-full md:w-3/4">
         <h2>레이븐코인과 비트코인의 차이점</h2>
-  
+
           <li><STRONG>블록당 보상: 50 비트코인 -> 5,000 레이븐코인.</STRONG></li>
           <li><STRONG>블록 생성 시간: 10분 -> 1분.</STRONG></li>
           <li><STRONG>코인 총 발행량: 2100만개-> 210억개.</STRONG></li>
@@ -210,7 +210,7 @@ modalCacheRef: "2.4.0"
   <div class="flex flex-wrap wrapper">
     <div class="w-full sm:w-1/2 md:w-3/4">
       <h2 class="text-white font-medium mb-3">레이븐코인 커뮤니티에 참여하세요!</h2>
-      <p class="text-white">레이븐코인 커뮤니티의 일원이 되어, 글로벌한 탈중앙화 네트워크에 채굴자, 코드 기여, 트레이더, 그리고 개발자로서 함께 해 주시길 바랍니다.</p>
+      <p class="text-white">레이븐코인 커뮤니티의 일원이 되어, 채굴자, 트레이더, 그리고 개발자로서 글로벌한 분산화 네트워크에 함께 해 주시길 바랍니다.</p>
     </div>
     <div class="w-full sm:w-1/2 md:w-1/4 text-left sm:text-center">
       <a class="btn btn-primary mx-2 mt-5 mb-3 px-4 py-3 font-normal text-base rounded text-white border-white border-solid border-2 hover:text-black" href="/community">커뮤니티 목록</a>
