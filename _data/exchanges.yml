@@ -19,10 +19,6 @@
   logo: /assets/img/pages/exchanges/Asset-7.png
   url: https://upbit.com/
 
-- name: 코인파크
-  logo: /assets/img/pages/exchanges/Coinpark.png
-  url: https://www.coinpark.com/
-
 - name: 유니콘엑스
   logo: /assets/img/pages/exchanges/unicorndo.png
   url: https://www.unicornx.exchange/markets/spot-info/rvn-usdt
@@ -30,6 +26,11 @@
 - name: 오케이엑스
   logo: /assets/img/pages/exchanges/okex.png
   url: https://www.okex.com/ko/spot/trade/rvn-btc
+
+- name: 핫빗코리아
+  logo: /assets/img/pages/exchanges/hotbitkorea.png
+  url: https://www.hotbit.co.kr/exchange?symbol=RVN_KRW
+
 
 - name: 후오비글로벌
   logo: /assets/img/pages/exchanges/huobigl.png
