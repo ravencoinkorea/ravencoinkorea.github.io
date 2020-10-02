@@ -17,7 +17,9 @@ permalink: /wallet/
         <a href="https://play.google.com/store/apps/details?id=com.ravenwallet" target="_blank" class="block"><img style="width:100%;width: 200px;" src="/assets/img/pages/wallet/google-play-badge.svg" alt="google play"/></a>
       </div>
     </div>
+    <br>
     <h2 class="mt-10 mb-16">데스크톱 지갑 다운로드</h2>
+    <br>
     <div class="flex flex-wrap align-center justify-center">
       <div class="w-full sm:w-1/2 md:w-1/3 px-4 mb-12">
         <div class="bg-grey-lighter max-w-sm rounded overflow-hidden shadow-md hover:by-grey">
@@ -38,7 +40,9 @@ permalink: /wallet/
         <a class="block mt-8 text-lg bg-blue hover:bg-blue-dark rounded p-2 text-white" href="https://github.com/RavenProject/Ravencoin/releases" download><i class="zmdi zmdi-download"></i><span class="inline-block ml-3">리눅스</span></a>
       </div>
     </div>
+    <br>
     <h2>제3자 플랫폼 지갑</h2>
+        <br>
     <div class="flex flex-wrap">
       {% for wallet in site.data.wallets %}
       <div class="mb-6 px-2 sm:w-1/2 text-center">
