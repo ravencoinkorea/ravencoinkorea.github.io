@@ -34,7 +34,7 @@ permalink: /about/
   </ul>
 
 <p style="margin-top:30px"></p>
-  <p>X16R 알고리즘은 ASIC 하드웨어로 인해 발생되는 채굴의 중앙화를 해결하기 위해 만들어 졌습니다. X16R&nbsp;<a href="/assets/documents/X16R Whitepaper Korean V.1.0.pdf">알고리즘 백서</a>를 만든 팀은, 보편적인 해싱 알고리<p style="margin-top:5px"></p>즘의 고정된 순서는 ASIC 하드웨서 개발에 도움이 된다고 말합니다.</p>
+  <p>X16R 알고리즘은 ASIC 하드웨어로 인해 발생되는 채굴의 중앙화를 해결하기 위해 만들어 졌습니다. X16R&nbsp;<a href="/assets/documents/X16R Whitepaper Korean V.1.0.pdf">알고리즘 백서</a>를 만든 팀은, 보편적인 해싱 알고리<p style="margin-top:5px"></p>즘의 고정된 순서는 고성능 반도체 채굴 하드웨어(ASIC) 개발에 도움이 된다고 말합니다. 초기 X16R 알고리즘은 해싱 알고리즘의 순서를 지속적으로 방해하여, 이 문제를 해결하고자 했습니다. X16 및 SHA512에서 사용된 동일한 알고리즘을 사용하지만, 알고리즘들의 순서는 이전 블록의 해시에 기반하여 지속적으로 변경했습니다. 하지만, X16R ASIC 채굴기가 나오게 되었고, 레이븐코인 커뮤니티는 중앙화될 수 있는 채굴을 막기위해, 새로운 알고리즘을 구현하기로 결정했습니다. 커뮤니티는 </p>
 <p style="margin-top:30px"></p>
   <p>그러나, X16R 알고리즘은 X15와 SHA512에서 사용되는 동일한 알고리즘을 사용하지만, 이전 블록 해시에 기반하여 알고리즘의 순서를 지속적으로 변경함으<p style="margin-top:5px"></p>로 인하여, 이 문제를 극복하고자 합니다.</p>
 <p style="margin-top:30px"></p>
