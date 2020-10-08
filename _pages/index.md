@@ -196,12 +196,13 @@ modalCacheRef: "4.3.1.0"
         <br>
         <h2>레이븐코인과 비트코인의 차이점</h2>
 
-          <li><STRONG>블록당 보상: 50 비트코인 -> 5,000 레이븐코인.</STRONG></li>
-          <li><STRONG>블록 생성 시간: 10분 -> 1분.</STRONG></li>
-          <li><STRONG>코인 총 발행량: 2100만개-> 210억개.</STRONG></li>
-          <li><STRONG>X16R이라는 탈중앙화된 채굴을 추구하는 새로운 채굴 알고리즘.</STRONG></li>
-          <li><STRONG>디지털 자산 발행 및 전송 기능 추가.</STRONG></li>
-          <li><STRONG>고유자산, 부자산, 보상, 메시징, 메모, 태그 및 제한자산, 투표 및 프라이버시 기능 추가 또는 추가 예정.</STRONG></li>
+          <li><STRONG>블록당 보상: 50 비트코인 -> 5,000 레이븐코인</STRONG></li>
+          <li><STRONG>블록 생성 시간: 10분 -> 1분</STRONG></li>
+          <li><STRONG>코인 총 발행량: 2100만개-> 210억개</STRONG></li>
+          <li><STRONG>카포(KAWPOW)라는 탈중앙화된 채굴을 위한 새로운 채굴 알고리즘</STRONG></li>
+          <li><STRONG>디지털 자산, 부자산, 고유자산, 태그 및 제한 자산 발행 및 전송 기능 추가</STRONG></li>
+          <li><STRONG>배당, 메시징, 메모, 투표 기능 추가</STRONG></li>
+          <li><STRONG>투표 기능 추가 업그레이드 예정</STRONG></li>
 
       </div>
       <div class="w-full sm:w-full md:w-1/4 text-center hidden md:block">
