@@ -14,7 +14,7 @@
     - google-play-badge
 
 - name: 발레
-  logo: /assets/img/pages/wallet/ballet.png
+  logo: /assets/img/pages/wallet/balletwallet.png
   url: https://www.balletcrypto.com/ko/
   asset-support: false
   platforms:
